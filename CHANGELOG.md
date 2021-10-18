@@ -1,3 +1,7 @@
+## 0.4.3.0
+### Added
+* Add support for aeson 2.0
+
 ## 0.4.2.0
 ### Added
 * Add support for working directory
